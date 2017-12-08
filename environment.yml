@@ -1,0 +1,7 @@
+name: intro_to_ml
+channels:
+ - conda-forge
+dependencies:
+ - numpy
+ - scipy
+ - scikit-learn
